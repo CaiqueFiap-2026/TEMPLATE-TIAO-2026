@@ -10,7 +10,23 @@
 
 <br>
 
-# Nome do projeto/atividade
+# 🌎 Global Solution — GS 2
+## 📚 Graduação ON em Inteligência Artificial
+
+---
+
+## 🧭 Sobre o Global Solution
+
+O **Global Solution (GS)** é a prova final de cada semestre da Graduação ON em IA. A prova que substitui o modelo tradicional de prova, exigindo que o aluno aplique, em uma solução autoral, o conjunto de competências desenvolvidas ao longo do semestre.
+
+Ao longo do ano são realizados **dois GSs**:
+
+- 📍 GS 1 — fechamento do 1º semestre
+- 📍 **GS 2** — fechamento do 2º semestre ← *você está aqui*
+
+---
+
+# Nome do projeto/Global Solution
 
 ## Nome do grupo
 
@@ -30,7 +46,7 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+*Descreva o tema/desafio do GS 2 com base no enunciado disponibilizado no Portal (até 600 palavras).*
 
 
 ## 📁 Estrutura de pastas

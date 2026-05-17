@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.fiap.com.br/">
-  <img src="../../assets/logo-fiap.png" 
+  <img src="../../../assets/logo-fiap.png" 
        alt="FIAP - Faculdade de Informática e Administração Paulista" 
        width="40%">
 </a>
@@ -10,31 +10,24 @@
 
 <br>
 
-# 🚀 FASE X — [Nome da Fase]
+# 🚀 FASE 4
 ## 📚 Graduação ON em Inteligência Artificial
 
 ---
 
 ## 👩🏻‍💻 Sobre esta Fase
 
-Esta fase representa uma etapa da minha evolução na Graduação ON em Inteligência Artificial da FIAP.
+Cada **Fase** corresponde a um ciclo do curso, no qual cumprimos as disciplinas previstas para o período e entregamos os PBLs (Project Based Learning) propostos por cada uma delas.
 
-Aqui estão organizados:
+Esta pasta concentra **todas as atividades/PBLs da Fase 4** — cada entrega fica em sua própria subpasta, nomeada conforme o título apresentado no Portal do Aluno.
 
-- 📖 Conteúdos teóricos estudados
-- 🧠 Conceitos fundamentais consolidados
-- 🛠 Tecnologias aplicadas
-- 📂 Projetos desenvolvidos
-- 📊 Resultados obtidos
-- 🎯 Competências adquiridas
-
-Esta documentação tem como objetivo demonstrar, de forma estruturada, o que foi aprendido e aplicado durante esta etapa do curso.
+> 💡 As subpastas `NOME_DA_ATIVIDADE_APRESENTADA_NO_PORTAL_*` são exemplos do padrão de organização. Renomeie e duplique conforme as entregas reais da fase.
 
 ---
 
 ## 🎯 Objetivo da Fase
 
-> Descrever aqui o foco principal da fase.
+> Descrever aqui o foco principal da Fase 4.
 
 Exemplo:
 
@@ -50,6 +43,8 @@ Exemplo:
 - Conceito A
 - Conceito B
 - Conceito C
+
+*(Ajustar conforme as disciplinas da fase.)*
 
 ---
 
@@ -67,9 +62,11 @@ Durante esta fase, foram utilizadas as seguintes tecnologias:
 
 ---
 
-## 📂 Projetos Desenvolvidos
+## 📂 Atividades desta Fase
 
-### 📌 Projeto 1 — [Nome do Projeto]
+Cada atividade está em sua própria pasta, com README e estrutura próprias.
+
+### 📌 Atividade 1 — [Nome conforme Portal]
 
 **Descrição:**  
 Breve explicação do problema e da solução proposta.
@@ -84,7 +81,7 @@ Breve explicação do problema e da solução proposta.
 
 ---
 
-### 📌 Projeto 2 — [Nome do Projeto]
+### 📌 Atividade 2 — [Nome conforme Portal]
 
 **Descrição:**  
 Breve explicação do projeto.
@@ -99,18 +96,7 @@ Breve explicação do projeto.
 
 ---
 
-### 📌 Projeto 3 — [Nome do Projeto]
-
-**Descrição:**  
-Breve explicação do projeto.
-
-**Tecnologias utilizadas:**  
-- Tecnologia A  
-- Tecnologia B  
-
-**Principais aprendizados:**  
-- Aprendizado 1  
-- Aprendizado 2  
+*(Adicionar/remover blocos conforme o número de entregas da fase.)*
 
 ---
 

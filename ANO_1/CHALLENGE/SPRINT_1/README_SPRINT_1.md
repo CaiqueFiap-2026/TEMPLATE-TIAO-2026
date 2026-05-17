@@ -10,7 +10,25 @@
 
 <br>
 
-# Nome do projeto/atividade
+# 🏆 Challenge — Sprint 1
+## 📚 Graduação ON em Inteligência Artificial
+
+---
+
+## 🧭 Sobre o Challenge
+
+O **Challenge** é o projeto com uma empresa parceira da Graduação ON em IA, desenvolvido ao longo do ano em **4 sprints**, cada uma com escopo e entregáveis próprios definidos no Portal do Aluno:
+
+- 🥇 **Sprint 1** ← *você está aqui*
+- 🥈 Sprint 2
+- 🥉 Sprint 3
+- 🏁 Sprint 4
+
+Cada sprint representa uma evolução incremental da mesma solução, somando-se às anteriores até a entrega final.
+
+---
+
+# Nome do projeto/Challenge
 
 ## Nome do grupo
 
@@ -30,7 +48,7 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+*Descreva o escopo e os objetivos desta Sprint 1 com base no enunciado disponibilizado no Portal (até 600 palavras).*
 
 
 ## 📁 Estrutura de pastas
