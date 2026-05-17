@@ -10,27 +10,43 @@
 
 <br>
 
-# Nome do projeto/atividade
+# 🌎 Global Solution — GS 1
+## 📚 Graduação ON em Inteligência Artificial
+
+---
+
+## 🧭 Sobre o Global Solution
+
+O **Global Solution (GS)** é a prova final de cada semestre da Graduação ON em IA. A prova que substitui o modelo tradicional de prova, exigindo que o aluno aplique, em uma solução autoral, o conjunto de competências desenvolvidas ao longo do semestre.
+
+Ao longo do ano são realizados **dois GSs**:
+
+- 📍 **GS 1** — fechamento do 1º semestre ← *você está aqui*
+- 📍 GS 2 — fechamento do 2º semestre
+
+---
+
+# Nome do projeto/Global Solution
 
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 5</a>
+- <a href="h">Nome do integrante 1</a>
+- <a href="h">Nome do integrante 2</a>
+- <a href="h">Nome do integrante 3</a> 
+- <a href="h">Nome do integrante 4</a> 
+- <a href="h">Nome do integrante 5</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do Tutor</a>
+- <a href="h">Nome do Tutor</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">Nome do Coordenador</a>
 
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+*Descreva o tema/desafio do GS 1 com base no enunciado disponibilizado no Portal (até 600 palavras).*
 
 
 ## 📁 Estrutura de pastas
